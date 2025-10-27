@@ -1,2 +1,2 @@
 # DSA_Practice
-In this repo i upload all the DSA topics that i study
+In this repo i upload all the DSA algorithm c++ code that i study
